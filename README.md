@@ -11,4 +11,4 @@
 - ![ColorsPalette Logo](https://colorspalette.design/logo-16.png) [Gutenberg Novel Analysis](https://github.com/raghavchugh21/NLP-Project-2) - Performing detailed analysis on two gutenberg novels
 - ![The Boilerplates Logo](https://colorspalette.design/logo-16.png) [Youtube Clickbait Detector](https://github.com/raghavchugh21/extension-bp) - A chrome extension that filters out youtube clickbaits
 
-### I am learning blog writings here - [www.medium.com/@raghavchughofficial](https://medium.com/@raghavchughofficial)
+### Learning to write blogs here - [www.medium.com/@raghavchughofficial](https://medium.com/@raghavchughofficial)
