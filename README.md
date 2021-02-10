@@ -1,7 +1,7 @@
 ## Hello, I am [Raghav Chugh](https://github.com/raghavchugh21) !
 
 [![Twitter Badge](https://img.shields.io/badge/-@raghavchugh21-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raghavchugh21)](https://twitter.com/raghavchugh21)
-[![Linkedin Badge](https://img.shields.io/badge/-raghavchughofficial-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghavchughofficial/)](https://www.linkedin.com/in/raghavchughofficial/)
+[![Linkedin Badge](https://img.shields.io/badge/-raghavchugh21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghavchugh21/)](https://www.linkedin.com/in/raghavchugh21/)
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
