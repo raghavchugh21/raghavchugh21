@@ -5,7 +5,7 @@
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
-### Some of the things I crafted or am crafting 
+### Some of the things I crafted or am crafting :
 
 - ![network](https://user-images.githubusercontent.com/65908705/108063102-bb928a80-7080-11eb-81e3-29a997443354.png) [Edge Weight Prediction](https://github.com/raghavchugh21/Edge-Weight-Prediction) - Predicting the weights in a signed graph
 - ![book](https://user-images.githubusercontent.com/65908705/108063097-b9303080-7080-11eb-8e31-ccebf21ad036.png) [Gutenberg Novel Analysis](https://github.com/raghavchugh21/Gutenberg-Novel-Analysis) - Performing detailed analysis on two gutenberg novels
