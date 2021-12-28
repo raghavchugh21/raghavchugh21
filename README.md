@@ -7,6 +7,8 @@
 
 ### Some of the things I crafted or am crafting :
 
+
+- ![graduation-hat](https://user-images.githubusercontent.com/65908705/147555845-2087cefb-68e5-4acc-aab6-50cd908f7ae4.png) [UniApply : University Job Portal](https://github.com/raghavchugh21/Project-Dash) - A university job portal for on-campus jobs integrated with college grades
 - ![t-shirt](https://user-images.githubusercontent.com/65908705/128639926-114a8633-7e30-4c1a-9cdf-45448e49e8cf.png) [Dash : E-commerce Project](https://github.com/raghavchugh21/Project-Dash) - A fashion E-commerce website made using Django & Bootstrap
 - ![grid](https://user-images.githubusercontent.com/65908705/128639972-dc7dd572-cbe5-45e3-88dc-344a40ac86ad.png) [Table Segmentation using U-Net](https://github.com/yashbansal6/Table-Segmentation-Using-Multitask-Learning-UNet) - Segmenting a given document image into a table using Deep Learning
 - ![network](https://user-images.githubusercontent.com/65908705/108063102-bb928a80-7080-11eb-81e3-29a997443354.png) [Edge Weight Prediction](https://github.com/raghavchugh21/Edge-Weight-Prediction) - Predicting the weights in a signed graph
